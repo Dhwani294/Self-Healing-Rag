@@ -1,0 +1,10 @@
+[
+{
+"question": "What benefits do employees receive?",
+"ground_truth": "Employees receive health insurance and PTO."
+},
+{
+"question": "What is the leave policy?",
+"ground_truth": "Employees receive 20 annual leave days."
+}
+]

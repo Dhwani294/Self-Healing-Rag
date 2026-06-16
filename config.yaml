@@ -1,0 +1,23 @@
+retrieval:
+
+  top_k: 5
+
+  hybrid_alpha: 0.5
+
+healing:
+
+  rerank_threshold: 0.4
+
+  hallucination_threshold: 0.6
+
+  max_retries: 3
+
+evaluation:
+
+  faithfulness_threshold: 0.75
+
+  relevancy_threshold: 0.70
+
+cache:
+
+  ttl: 3600
