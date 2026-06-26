@@ -12,7 +12,6 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-
 **Traditional RAG fails silently. This one fixes itself.**
 
 <br/>
